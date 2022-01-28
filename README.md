@@ -6,7 +6,14 @@ A simple CMS-style blog site where users publish blog posts, and comment on each
 ## Live App
 Visit the live site at cryptic-eyrie-61373.herokuapp.com](https://cryptic-eyrie-61373.herokuapp.com/).
 
-# Questions
+## Built With
+- Express
+- MySQL
+- Sequelize
+- Handlebars
+- bcrypt
+
+## Questions
 For questions contact Sophia Barrett at [sophia@yoursummit.media](mailto:sophia@yoursummit.media) or visit [github.com/sophiabarrett](https://github.com/sophiabarrett).
 
 ## License
